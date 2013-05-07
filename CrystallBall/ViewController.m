@@ -20,7 +20,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    UIImage *image = [UIImage imageNamed:@"background.png"];
+    UIImage *image = [UIImage imageNamed:@"cball00001.png"];
     self.imageView = [[UIImageView alloc] initWithImage:image];
     [self.view insertSubview:self.imageView atIndex:0];
     
